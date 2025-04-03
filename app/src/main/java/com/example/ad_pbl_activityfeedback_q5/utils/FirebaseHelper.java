@@ -29,7 +29,7 @@ import java.util.function.Consumer;
 
 public class FirebaseHelper {
     private static final String TAG = "FirebaseHelper";
-    private static final String DATABASE_URL = "https://ad-pbl-activityfeedback-q5-default-rtdb.asia-southeast1.firebasedatabase.app";
+    private static final String DATABASE_URL = "YOUR_DATABSE_URL";
 
     private static FirebaseDatabase database;
     private static FirebaseAuth auth;
