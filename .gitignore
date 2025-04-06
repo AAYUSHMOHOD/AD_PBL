@@ -13,8 +13,6 @@
 .externalNativeBuild
 .cxx
 local.properties
-*.apk
-*.ap_ 
 .gradle/
 .idea/
 .vscode/
